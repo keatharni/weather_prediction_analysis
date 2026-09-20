@@ -29,6 +29,5 @@ Streamlit
 Scikit-learn
 ## Dataset
 The project uses the Seattle Weather Dataset for analysis, visualization, and weather prediction.
-📊 Dataset
 
 The project uses the Seattle Weather Dataset for analysis, visualization, and weather prediction.
