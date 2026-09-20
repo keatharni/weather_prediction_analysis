@@ -24,7 +24,7 @@ st.write(
 @st.cache_data
 def load_data():
     data = pd.read_csv(
-        "C:\\PROJECT\\cleaned_seattle_waether.csv"
+        "cleaned_seattle_waether.csv"
     )
     return data
 data = load_data()
